@@ -86,7 +86,7 @@
 					<input type="text" placeholder="lahore" name="search"> </form>
 				<ul class="global-header">
 					<li><a href="#">Dispensaries</a></li>
-					<li><a href="#">Deliveries</a></li>
+					<li><a href="delivery.php">Deliveries</a></li>
 					<li><a href="#">Maps</a></li>
 					<li><a href="#">Brands</a></li>
 					<li><a href="#">Products</a> </li>
