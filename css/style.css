@@ -370,6 +370,26 @@ font-size: 0.875rem; color: rgb(96, 100, 111);}
 .country-region ul a li { padding: 8px; color: #333333; font-size: 16px;}
 .country-region{width: 20%;}
 
+/*Login and signup page css*/
+.bud-logsp { max-width: 500px;margin: auto;padding-top: 25px;text-align: center;}
+.login-form {border: 1px solid #ccc;border-radius: 3px;padding: 24px;margin-top: 20px;}
+.login-form input {width: 100%;background: #fff !important;margin: 10px 0px; border: 1px solid #898989;border-radius: 3px;font-size: 14px;height: 48px;padding: 0 16px;}
+.login-form input[type="button"] {background: #B3D9D8 !important;cursor: pointer; font-size: 16px;font-weight: 600; color: #fff;}
+.account-access {padding: 15px 0px;}
+.account-access a {color: #00a8a3;}
+.social-login {margin-top: 5px;display: grid;}
+.social-login a {margin: 10px 0px;color: #ffff;padding: 15px;border-radius: 3px;}
+.social-login .fa-facebook:before {content: "\f09a";font-family: 'Font Awesome 5 Brands';margin-right: 40px;font-size: 18px;}
+.social-login .fa-facebook{background-color:#4267b2 }
+.social-login .fa-google:before{content: "\f1a0";font-family: 'Font Awesome 5 Brands';margin-right: 40px;font-size: 18px;}
+.social-login .fa-google{background-color:#4285f4}
+.social-login .fa-apple:before {content: "\f179"; font-family: 'Font Awesome 5 Brands';margin-right: 40px;font-size: 18px;}
+.social-login .fa-apple{background-color: #000;}
+.social-login span {font-size: 13px;font-family: sans-serif;}
+.social-login a:hover { opacity: 0.8;}
+.w-singup {text-align: left;padding: 10px 0px;border-top: 1px solid #eee;}
+.login-form img {width: 100%;}
+ul.signup-list li {text-align: left; list-style-type: disc;padding: 6px;}
 /*media query start*/
 
 @media screen and (max-width: 768px){
