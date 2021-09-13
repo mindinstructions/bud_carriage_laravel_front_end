@@ -330,8 +330,6 @@ border:1px solid #000; padding: 6px;background-color: #fff;}
 .order-icon-shop i.fas.fa-cart-plus {padding-right: 10px;color: #000;}
 .order-icon-shop a{font-size: 0.875rem;
     color: rgb(96, 100, 111);}
-
-
 /*Deals nearby*/
 .nearby-img-cl{
  width: 100%; display: flex; padding-bottom: 40px;}
@@ -390,6 +388,22 @@ font-size: 0.875rem; color: rgb(96, 100, 111);}
 .w-singup {text-align: left;padding: 10px 0px;border-top: 1px solid #eee;}
 .login-form img {width: 100%;}
 ul.signup-list li {text-align: left; list-style-type: disc;padding: 6px;}
+/*product page css*/
+.product-banner {margin-top: 20px;}
+.product-banner img {width: 100%; border-radius: 30px;}
+.product-heading {padding-top: 20px;}
+.f-width-product {width: 100%;display: flex;}
+.w-25-p {margin-top:10px;width: 25%; text-align: center;}
+.w-25-p img {width: 100%;padding: 10px;}
+.w-25-p a {color: #252935;}
+.w-20-p{width: 20%; text-align: center;}
+.w-20-p img {width: 100%;}
+.w-20-p a {color: #252935;}
+.product-boder {border: 1px solid #eee;border-radius: 8px;margin: 5px;padding: 20px;}
+.discover-st {display: flex; justify-content: end;margin-top: -22px;color: #252935;font-size: 16px;font-weight: 700;}
+.product-slide {padding: 20px 0px;}
+.discover-st:hover{color:#00a8a3;}
+.detail-para {font-size: 16px;padding-top: 20px; color: #333333;line-height: 20px;font-weight: 400;}
 /*media query start*/
 
 @media screen and (max-width: 768px){
@@ -495,6 +509,9 @@ img.p1 {width: 100%;}
 .feature-1 img{width: 80%;}
 .services-brand-1 img{width: 80%;}
 .order-icon-shop{ width: 80%; }
+.f-width-product {width: 100%;display: block;}
+.w-25-p {margin-top:10px;width: 100%;}
+.w-20-p{width: 100%;}
 }
 @media screen and (max-width: 500px){
 .feature-1 img{width: 80%;}
