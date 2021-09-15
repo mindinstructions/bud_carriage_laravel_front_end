@@ -14,7 +14,7 @@
 		<div class="container-vlr">
 			<div class="container-bf">
 				<div class="about-1">
-					<a href="#"><img src="img/logo.png"></a>
+					<a href="index.php"><img src="img/logo.png"></a>
 				</div>
 				<div class="about-2">
 					<form class="example" action="/action_page.php"> <span><i class="fa fa-search" aria-hidden="true"></i></span>
@@ -22,10 +22,10 @@
 						<input type="text" placeholder="lahore" name="search"> </form>
 					<ul class="global-header">
 						<li><a href="#">Dispensaries</a></li>
-						<li><a href="#">Deliveries</a></li>
+						<li><a href="delivery.php">Deliveries</a></li>
 						<li><a href="#">Maps</a></li>
 						<li><a href="#">Brands</a></li>
-						<li><a href="#">Products</a> </li>
+						<li><a href="product.php">Products</a> </li>
 						<li><a href="#">Deals</a></li>
 						<li><a href="#">Learn</a></li>
 						<li><a href="#">Strains<sup>new</sup></a></li>
