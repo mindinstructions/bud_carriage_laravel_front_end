@@ -402,9 +402,19 @@
                <div class="main-tabb-cl">
                   <div class="main-tabb-left">
                      <div class="first-time">
-                        <div class="amenties-bg">
+                        <div>
+                            <h2 class="cg">Introduction</h2>
+                            <p>High Tide is a premium delivery service, offering customers only the absolute best brands and highest quality ﻿products in the industry matched with professional and friendly service. High Tide is fully licensed by the state of California for both recreational and medicinal cannabis delivery. All of the products on our menu have been tested in a laboratory for purity and potency. We take great pride in serving our community and look forward to making your experience as easy and pleasant as possible.</p>
+                            <h2 class="cg">About Us</h2>
+                            <p>High Tide has been a West Side medical marijuana delivery service for almost a decade. Its founders were born and raised in the area and are honored to serve their community. With extensive knowledge in cultivation and genetics, High Tide Organics provides the highest quality and best tasting organic.</p>
                            <h3 class="cg">Amenities</h3>
                            <p><a href="#"><i class="fas fa-notes-medical"></i><br>Mdical</a></p>
+                            <h2 class="cg">First-Time Customers</h2>
+                            <p>20% off your purchase! Use discount code <b>"SUNSET20"</b></p>
+                            <h2 class="cg">Announcement</h2>
+                            <p><b>COVID-19</b> : High Tide has instituted extra health & safety precautions to ensure the health of both our customers and staff. We are sanitizing all products and delivery vehicles. Our delivery personal will be wearing face coverings and using gloves.</p>
+                            <p>State License<br>
+                            Adult-Use Nonstorefront:C9-0000103-LIC</p>
                         </div>
                      </div>
                   </div>

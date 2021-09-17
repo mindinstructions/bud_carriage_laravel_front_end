@@ -522,7 +522,7 @@ border: 0.0625rem solid rgb(204, 204, 204);padding: 0px 1rem;color: rgb(74, 74, 
 b{color: #e3452a;}.icon-2 {display: inline-grid;}.icon-2 span{font-size: 14px;}
 span i.fas.fa-briefcase-medical, .fa-pager, .fa-shopping-cart,
 .far.fa-clock,.fa-check{padding-right: 10px;padding-top: 10px; color: #252935;}.icon-3 { display: inline-grid;}
-.button {margin-top: 20px; width: 360px;padding-left: 50px;}
+.button {margin-top: 20px; width: 360px;padding-left: 50px;display: flex;}
 span.hello-1 {border: 1px solid;padding: 10px 12px; margin-right: 10px; font-size: 14px; font-style: normal;
   font-weight: 600; line-height: 20px;color: #60646f;}
   i.fas.fa-phone ,.fas.fa-map,.fas.fa-clock, .fas.fa-envelope,.fas.fa-link,.fab.fa-instagram,.fab.fa-twitter,.fab.fa-facebook,.fas.fa-map-marker-alt
@@ -536,7 +536,7 @@ button.w3-bar-item.w3-button {width: 95px; margin: 3px;border: none;background: 
 font-size: 15px;cursor: pointer;color: #a5a9b1;}.tabbin-2{width: 100%;}
 /*tab contact weed map*/
 .main-tabb-cl{width: 100%; display: flex; padding-top: 20px;}
-.main-tabb-left{width: 48%;padding-top: 10px;}
+.main-tabb-left{width: 48%;}
 .amities-icon{width: 100%;display: flex;}
 .Introduction-bg {padding-top: 20px;padding-bottom: 20px;}
 .Introduction-bg h3{font-weight:600; font-size: 18px; line-height:20px;color: #4a4a4a;}
