@@ -5,6 +5,7 @@ body{  font-family: circular, -apple-system, BlinkMacSystemFont,
 
 
 /*menu code */
+img.header-logo { width: 100%;}
 .main-border-bottom{border-bottom: 1px solid rgb(230, 229, 229);}
 .container-vlr{width: 90%;margin: auto;/*background: antiquewhite;*/}
 .container-bf{width: 100%;display: flex;}
@@ -257,10 +258,8 @@ a i.fab.fa-apple {padding-right: 10px;}
 .footer-main{width: 80%;margin: auto;display: flex;
   padding-bottom: 40px;}
 .footer-bg-1{width: 40%;}
-.classic-foot{
-
-}
-img.weed-map-img { width: 220px;}
+.classic-foot{ margin-top: 30px;}
+img.weed-map-img { width: 70%; margin-bottom: 20px;}
 p.text-img {padding-bottom: 20px;padding-right: 30px;}
 .it-foot { display: flex; width: 100%;padding-bottom: 10px;}
 li.img-foot img {width: 115px;height: 40px;}
@@ -370,11 +369,11 @@ font-size: 0.875rem; color: rgb(96, 100, 111);}
 
 /*Login and signup page css*/
 .bud-logsp { max-width: 500px;margin: auto;padding-top: 25px;text-align: center;}
-.login-form {border: 1px solid #ccc;border-radius: 3px;padding: 24px;margin-top: 20px;}
+/*.login-form {border: 1px solid #ccc;border-radius: 3px;padding: 24px;margin-top: 20px;}*/
 .login-form input {width: 100%;background: #fff !important;margin: 10px 0px; border: 1px solid #898989;border-radius: 3px;font-size: 14px;height: 48px;padding: 0 16px;}
-.login-form input[type="button"] {background: #B3D9D8 !important;cursor: pointer; font-size: 16px;font-weight: 600; color: #fff;}
+.login-form input[type="button"] {background: #306f29 !important;cursor: pointer; font-size: 16px;font-weight: 600; color: #fff;}
 .account-access {padding: 15px 0px;}
-.account-access a {color: #00a8a3;}
+.account-access a {color: #306f29;}
 .social-login {margin-top: 5px;display: grid;}
 .social-login a {margin: 10px 0px;color: #ffff;padding: 15px;border-radius: 3px;}
 .social-login .fa-facebook:before {content: "\f09a";font-family: 'Font Awesome 5 Brands';margin-right: 40px;font-size: 18px;}
@@ -711,9 +710,6 @@ span.sub-header {
   width: 80%;
   margin: auto;
 }
-li.nav-item {
-    padding: 0 15px;
-}
 .bg-foottt{
   color: #a5a9b1;
   font-size: 14px;
@@ -868,3 +864,18 @@ img.p1 {width: 100%;}
 .order-icon-shop{ width: 80%; }
 }
 
+.form-logo img {width: 80px !important;}
+.bud-carriage-home.text-center {width: 90%;margin: auto;}
+.bud-c .nav-pills .nav-link.active{background-color:#306F29 !important;}
+.bud-c .card {width: 500px;}
+.btr { border-top-right-radius: 5px !important}
+.btl { border-top-left-radius: 5px !important}
+.btn-dark {color: #fff;background-color: #0d6efd;border-color: #0d6efd}
+.btn-dark:hover {color: #fff;background-color: #0d6efd;border-color: #0d6efd}
+.bud-c  .nav-pills {display: table !important;width: 100%}
+.bud-c .nav-pills .nav-link {border-radius: 0px;border-bottom: 1px solid #0d6efd40}
+.bud-c .nav-item {display: table-cell;background: #0d6efd2e}
+.form {padding: 10px;height: 300px}
+.bud-c .form input {margin-bottom: 12px;border-radius: 3px}
+.bud-c .form input:focus {box-shadow: none}
+.bud-c .form button {margin-top: 20px}

@@ -31,7 +31,7 @@
 		<div class="container-vlr">
 			<div class="container-bf">
 				<div class="about-1">
-					<a href="index.php"><img src="img/logo.png"></a>
+					<a href="index.php"><img class="header-logo" src="img/Bud&Carriage-logo-B&C-1.png"></a>
 				</div>
 				<div class="about-2">
 					<form class="example" action="/action_page.php"> <span><i class="fa fa-search" aria-hidden="true"></i></span>

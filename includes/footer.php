@@ -79,7 +79,7 @@
 		<div class="footer-main">
 			<div class="footer-bg-1">
 				<div class="classic-foot">
-					<a href="#"><img src="img/weed.jpg" class="weed-map-img"></a>
+					<a href="#"><img src="img/Bud&Carriage-logo-1.png" class="weed-map-img"></a>
 					<p class="text-img">A community connecting cannabis consumers, patients, retailers, doctors, and brands since 2008.</p>
 					<ul class="it-foot">
 						<li class="img-foot">
