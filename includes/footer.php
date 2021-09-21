@@ -118,9 +118,7 @@
 					<a href="#">
 						<p> Advocacy</p>
 					</a>
-					<a href="#">
-						<p> Download the app</p>
-					</a>
+					
 				</div>
 			</div>
 			<div class="footer-bg-3">
@@ -135,24 +133,13 @@
 					<a href="#">
 						<p>Doctors </p>
 					</a>
-					<a href="#">
-						<p>Nearby deals</p>
-					</a>
-					<a href="#">
-						<p> Brands</p>
-					</a>
-					<a href="#">
-						<p>Strains </p>
-					</a>
+					
+					
 					<a href="#">
 						<p>News</p>
 					</a>
-					<a href="#">
-						<p>Gear</p>
-					</a>
-					<a href="#">
-						<p>Recently viewed </p>
-					</a>
+					
+					
 				</div>
 			</div>
 			<div class="footer-bg-4">
@@ -169,28 +156,6 @@
 					</a>
 					<a href="#">
 						<p> Referral program</p>
-					</a>
-				</div>
-			</div>
-			<div class="footer-bg-5">
-				<div class="business-bg"> <img src="img/busnis.jpg">
-					<a href="#">
-						<p> Get started</p>
-					</a>
-					<a href="#">
-						<p> Add a business</p>
-					</a>
-					<a href="#">
-						<p>For retailers</p>
-					</a>
-					<a href="#">
-						<p> For brands</p>
-					</a>
-					<a href="#">
-						<p>For advertisers</p>
-					</a>
-					<a href="#">
-						<p> For developers</p>
 					</a>
 				</div>
 			</div>

@@ -26,8 +26,8 @@ ul.global-header li{padding: 7px 10px;/*margin-top: 10px;*/
 ul.global-header a{color: #000; font-size: 14px;}
 .border-radius a{ border-radius: 30px;}
 .border-radius a.btn.btn-info{padding: 6px 12px;}
-.btn-info {color: white!important;background-color: #00a8a3!important;
-    padding: 5px 6px; display: inline-block;}
+.btn-info {color: white!important;background-color: #306F29!important;
+    padding: 5px 6px;}
 .about-3{/*width: 30%;*/padding-top: 5px;}
 
 ul.icon-bg-clr li i.fa.fa-shopping-cart {
@@ -80,6 +80,7 @@ right: 25px;font-size: 36px; margin-left: 50px;}
 padding-bottom: 35px;
     padding-top: 35px;}
 .foot-1{width: 14%;}
+.foot-1 img{width: 100%;}
 .foot-2{width: 40%;margin: auto;}
 .heading h1{
   font-family: circular, -apple-system, BlinkMacSystemFont,
@@ -228,7 +229,7 @@ button.btn-detail-2 { border: 1px solid #a5a9b1;
 
   /*pitcher START*/
 .main-pictcher{width: 100%;margin-bottom: 100px;
-background-color: rgb(0, 103, 99);margin-top: 150px;
+background-color: #306F29;margin-top: 150px;
 padding-bottom: 50px; overflow: hidden;}
 .pitcher-ios{ width: 80%;margin: auto; display: flex;}
 .pitcher-1{margin: auto;}
@@ -244,7 +245,7 @@ pitcer.androd-1 img { margin-top: 21px;}
  margin: auto;}
 .ptc-button a{border: 1px solid;padding: 17px 56px;
   background: #fff;
-  margin:6px; color: rgb(0, 103, 99);font-size: 15px;
+  margin:6px; color: #306F29;font-size: 15px;
   border: 0.0625rem solid var(--button-color);
   font-weight: bold; border-radius: 9999px;}
 a i.fab.fa-apple {padding-right: 10px;}
@@ -260,7 +261,7 @@ a i.fab.fa-apple {padding-right: 10px;}
 
 }
 img.weed-map-img { width: 220px;}
-p.text-img {padding-bottom: 20px;}
+p.text-img {padding-bottom: 20px;padding-right: 30px;}
 .it-foot { display: flex; width: 100%;padding-bottom: 10px;}
 li.img-foot img {width: 115px;height: 40px;}
 li.immg-foot img {width: 115px;height: 40px;
@@ -268,15 +269,14 @@ li.immg-foot img {width: 115px;height: 40px;
 ul.weed-icon {padding-top: 12px;}
 li.hp { margin: 11px;display: inline;}
 li.hp a{color: #000;font-size: 18px;font-weight: 600;}
-.footer-bg-2{ width: 13.3%;}
+.footer-bg-2{ width: 20%;}
 .footer-heloo h3 { font-size: 20px;color: #252935;
   line-height: 30px; }
 .footer-heloo a{
  font-size: 16px;color: rgb(96, 100, 111);line-height: 2;}
 .footer-heloo {padding-top: 30px;padding-left: 10px;}
-.footer-bg-3{width: 13.3%;}
-.footer-bg-4{width: 13.3%;}
-.footer-bg-5{width: 20%;}
+.footer-bg-3{width: 20%;}
+.footer-bg-4{width: 20%;}
 .business-bg {background-color: #333;margin-top: 30px;
   padding-bottom: 10px;padding-left: 20px;width: 200px;}
 .business-bg img{width: 150px; padding-top: 20px;}
@@ -322,7 +322,7 @@ border:1px solid #000; padding: 6px;background-color: #fff;}
 .irvine {
   width: 100%;
 }
-.irvine p{font-size: 0.875rem;color: rgb(96, 100, 111);padding: 2px 0 2px 0;}
+.irvine p{font-size: 0.875rem;color: rgb(96, 100, 111);/*padding: 2px 0 2px 0;*/}
 .irvine h5{ font-weight: bold;color: #333333;font-size: 16px;padding: 2px 0 2px 0;}
 .checkeed {color: orange;}
 .order-icon-shop { width: 100%; border: 1px solid;margin-top: 10px;padding: 10px;
@@ -671,7 +671,67 @@ button.textt { font-family: circular, -apple-system, BlinkMacSystemFont, "Helvet
 
 }
 
+/*brands csss start*/
+.sliderfull-width{
+  width: 100%;background-color: #000;
+}
+.sliderfull-width {
+    width: 100%;
+    background: #000;
+}
+div#demo {
+    margin: auto;
+    width: 80%;
+}
+.discover-learn-head{
+  width: 100%;
+  text-align: center;
+  padding: 20px 0 20px 0;
+}
+.discover-learn-head h1{
+color: #000;
+font-size: 16px;
+    font-size: 2.25rem;
+    line-height: 1;
+    padding: 0.5rem 0px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+span.sub-header {
+  font-weight: 400;
+    font-size: 2.125rem;
+    letter-spacing: 0.04375rem;
+    padding: 0px 0.5rem;
+    font-size: 34px;
+    color: #4a4a4a;
+    line-height: 34px;
 
+}
+.tab-bgl{
+  width: 80%;
+  margin: auto;
+}
+li.nav-item {
+    padding: 0 15px;
+}
+.bg-foottt{
+  color: #a5a9b1;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.bg-foottt:{
+background:none;
+ }
+a#pills-flower-tab-bg-lightss {
+    background: none;
+  
+}
+a#pills-discover-tab-bg-lights.active {
+  
+    background: none;
+    color: #000;
+}
 /*media query start*/
 
 @media screen and (max-width: 768px){
