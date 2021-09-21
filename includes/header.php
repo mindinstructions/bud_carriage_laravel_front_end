@@ -33,7 +33,7 @@
 				<div class="about-1">
 					<a href="index.php"><img class="header-logo" src="img/Bud&Carriage-logo-B&C-1.png"></a>
 				</div>
-				<div class="about-2">
+				<div class="about-2 header-in">
 					<form class="example" action="/action_page.php"> <span><i class="fa fa-search" aria-hidden="true"></i></span>
 						<input type="text" placeholder="product,retailers,brands,and more" name="search"> <span><i class="fa fa-map-marker" aria-hidden="true"></i></span>
 						<input type="text" placeholder="lahore" name="search"> </form>
@@ -97,7 +97,7 @@
 					</ul>
 				</div>
 			</div>
-			<div class="content-fromm">
+			<div class="content-fromm header-in">
 				<form class="example" action="/action_page.php"> <span><i class="fa fa-search" aria-hidden="true"></i></span>
 					<input type="text" placeholder="product,retailers,brands,and more" name="search"> <span><i class="fa fa-map-marker" aria-hidden="true"></i></span>
 					<input type="text" placeholder="lahore" name="search"> </form>
