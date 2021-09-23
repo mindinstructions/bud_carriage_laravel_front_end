@@ -165,8 +165,8 @@
 	<!-- copyrit -->
 	<div class="copyright-bg">
 		<p> Copyright © 2021 Bud & Carriage.
-			<a href="#"><img src="img/copy-2.jpg" class="pn-1"></a>&
-			<a href="#"><img src="img/copy-1.jpg" class="pn-2"></a> are registered trademarks of Ghost Management Group, LLC. All Rights Reserved. </p>
+			<a href="#"><img src="img/Bud&Carriage-logo-B&C-1.png" class="pn-1"></a>&
+			<a href="#"><img src="img/Bud&Carriage-logo-1.png" class="pn-2"></a> are registered trademarks of Ghost Management Group, LLC. All Rights Reserved. </p>
 	</div>
 
 

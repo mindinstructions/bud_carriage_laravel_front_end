@@ -44,7 +44,7 @@
     <a class="nav-link active" id="pills-discover-tab-bg-lights" data-toggle="pill" href="#pills-discover" role="tab" aria-controls="pills-discover" aria-selected="true">Discover</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link bg-foottt" id="pills-flower-tab" data-toggle="pill" href="#pills-flower" role="tab" aria-controls="pills-flower" aria-selected="false">Flower</a>
+    <a class="nav-link bg-foottt" id="pills-flower-tab htal" data-toggle="pill" href="#pills-flower" role="tab" aria-controls="pills-flower" aria-selected="false">Flower</a>
   </li>
   <li class="nav-item">
     <a class="nav-link bg-foottt" id="pills-concentrates-tab" data-toggle="pill" href="#pills-concentrates" role="tab" aria-controls="pills-concentrates" aria-selected="false">Concentrates</a>

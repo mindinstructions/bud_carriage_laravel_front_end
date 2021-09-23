@@ -41,10 +41,10 @@
 						<li><a href="#">Dispensaries</a></li>
 						<li><a href="delivery.php">Deliveries</a></li>
 						<li><a href="#">Maps</a></li>
-						<li><a href="#">Brands</a></li>
+						<li><a href="brands.php">Brands</a></li>
 						<li><a href="product.php">Products</a> </li>
 						<li><a href="#">Deals</a></li>
-						<li><a href="#">Learn</a></li>
+						<li><a href="learn.php">Learn</a></li>
 						<li><a href="#">Strains<sup>new</sup></a></li>
 						<li>
 							<div class="border-radius"> <a href="#" class="btn-info">order online</a></div>
